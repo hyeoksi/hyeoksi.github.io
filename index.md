@@ -3,20 +3,16 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+* 건양대 의료IT공학과 재학 중 입니다.
+  
+
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Career 
+  * 세종고 졸업 ( 2020/03 ~ 2023/01)
+  * 공군 (2023/09 ~ 2025/06)
+  * 건양대 재학 (2026/03 ~) 
 
 <br/>
 
