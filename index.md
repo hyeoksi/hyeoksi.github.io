@@ -17,6 +17,5 @@ layout: about
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+홀 서빙 알바 (2023/ 03 ~ 2023/ 07)
+옷가게 알바 (2025/ 10 ~ 2025/ 11)
